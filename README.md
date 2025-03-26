@@ -18,15 +18,15 @@ A modern, fully responsive e-commerce web application built with **Next.js, Tail
 
 - **Frontend**: Next.js, React.js, Tailwind CSS, Redux Toolkit
 - **Backend**: Node.js, Express.js
-- **Database**: PostgreSQL / MongoDB
-- **Authentication**: Firebase Auth / JWT
-- **Payments**: Stripe / Razorpay
+- **Database**: MongoDB
+- **Authentication**: Firebase Auth
+- **Payments**: Stripe
 
  ## 🎯Roadmap
 
 ✅ Initial project setup with Next.js and Tailwind CSS
 
-✅ Implement user authentication (Firebase / JWT)
+✅ Implement user authentication (Firebase)
 
 ✅ Product listing and filtering
 
@@ -35,4 +35,4 @@ A modern, fully responsive e-commerce web application built with **Next.js, Tail
 🚧 Implement wishlist functionality
 
 
-
+Demo: https://nextjs-ecommerce-six.vercel.app/
