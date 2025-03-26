@@ -23,6 +23,7 @@ A modern, fully responsive e-commerce web application built with **Next.js, Tail
 - **Payments**: Stripe / Razorpay
 
  Roadmap
+
 ✅ Initial project setup with Next.js and Tailwind CSS
 
 ✅ Implement user authentication (Firebase / JWT)
