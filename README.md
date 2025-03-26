@@ -6,8 +6,8 @@ A modern, fully responsive e-commerce web application built with **Next.js, Tail
 ## 🚀 Features
 
 - 🛒 **Product Management** – View, search, and filter products dynamically.
-- 🔑 **User Authentication** – Secure login and registration with JWT/Firebase Auth.
-- 💳 **Payment Integration** – Seamless checkout via **Stripe/Razorpay**.
+- 🔑 **User Authentication** – Secure login and registration with Firebase Auth.
+- 💳 **Payment Integration** – Seamless checkout via Stripe.
 - 📦 **Order Management** – Users can track their orders and view order history.
 - 🛍️ **Cart System** – Add, remove, and update cart items in real-time.
 - 🎨 **Modern UI** – Built with **Tailwind CSS** for a sleek and responsive design.
